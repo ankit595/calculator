@@ -1,16 +1,8 @@
 # calculator
 
 A new Flutter project.
+![calcSplash](https://github.com/ankit595/calculator/assets/56728798/9ae57e87-7f1d-4244-a1f9-b6db7fa02e34)
 
-## Getting Started
+![mainscreen](https://github.com/ankit595/calculator/assets/56728798/d105db4b-e446-40a1-b5f3-377696bf8ee2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![calcwork](https://github.com/ankit595/calculator/assets/56728798/84b38f1a-8c3f-450c-a108-a18bc9b311a5)
